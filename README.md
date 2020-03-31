@@ -30,7 +30,7 @@
 - 🧤 Steal others farmers animals;
 - and much more 🔥
 
-## Docs
+## Documentation
 
 You can see an official documentation about Mimitsu [here](localhost:8000).
 
