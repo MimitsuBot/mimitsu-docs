@@ -34,7 +34,7 @@ You can see a full documentation about Mimitsu in [website](localhost:8000).
 
 ## Contribuiting
 
-**We want everyone to be able to help with Switchblade as easily as possible,** so we've created a list with the many ways you can contribute to the project. Take a look, and if you think you can help with any of these, please do! If you have any questions, don't hesitate to [join our community server](http://support.switchblade.xyz) and ask as many questions as you want.
+**Everyone can help Mimitsu to grow even more**, so we've created a list with many ways you can contribute to the project. Please, take a look at all of them, and if you think you can help with any of these, please do!
 
 ### Ideas and discussion
 
