@@ -11,9 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-welcome-%237159c1.svg" alt="PRs welcome!" />
+  <img src="https://img.shields.io/badge/PRs-welcome-c696e2" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%237159c1">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%c696e2">
+
+  <img alt="Support Server" src="https://img.shields.io/discord/694581258470162472?label=Support%20Server&logo=discord&logoColor=white">
 
   <a href="https://twitter.com/intent/follow?screen_name=rocketseat">
     <img src="https://img.shields.io/twitter/follow/rocketseat.svg?label=Follow%20@rocketseat" alt="Invite Mimitsu to your server" />
