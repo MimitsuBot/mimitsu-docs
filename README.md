@@ -17,8 +17,8 @@
 
   <img alt="Support Server" src="https://img.shields.io/discord/694581258470162472?label=Support%20Server&logo=discord&logoColor=white">
 
-  <a href="https://twitter.com/intent/follow?screen_name=rocketseat">
-    <img src="https://img.shields.io/twitter/follow/rocketseat.svg?label=Follow%20@rocketseat" alt="Invite Mimitsu to your server" />
+  <a href="https://discord.gg/D4wgfUR">
+    <img src="https://img.shields.io/discord/694581258470162472?label=Support%20Server&logo=discord&logoColor=white" alt="Support Server">
   </a>
 </p>
 
