@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/theme-docs.svg" alt="A illustration of file that is the @rocketseat/gatsby-theme-docs logo" width="100">
+  <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/theme-docs.svg" alt="A illustration of Mimitsu logo image" width="100">
 </p>
 
 <h2 align="center">
@@ -16,7 +16,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%237159c1">
 
   <a href="https://twitter.com/intent/follow?screen_name=rocketseat">
-    <img src="https://img.shields.io/twitter/follow/rocketseat.svg?label=Follow%20@rocketseat" alt="Follow @rocketseat" />
+    <img src="https://img.shields.io/twitter/follow/rocketseat.svg?label=Follow%20@rocketseat" alt="Invite Mimitsu to your server" />
   </a>
 </p>
 
@@ -28,39 +28,24 @@
 - 🧤 Steal others farmers animals;
 - and much more 🔥
 
-## 🚀 Features
+## Docs
 
-- MDX for docs;
-- Fully customizable through the usage of Gatsby Themes (and Theme UI)
-- Sidebar customization with Yaml;
-- Code highlighting with [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) and [react-live](https://github.com/FormidableLabs/react-live) support. Copy code button and option to show line numbers.
-- SEO (Sitemap, schema.org data, Open Graph and Twitter tags).
-- Google Analytics support;
-- Offline Support & WebApp Manifest
+You can see a full documentation about Mimitsu in [website](localhost:8000).
 
-## ⚡️ Getting started
+## Contribuiting
 
-1. Create the website.
+**We want everyone to be able to help with Switchblade as easily as possible,** so we've created a list with the many ways you can contribute to the project. Take a look, and if you think you can help with any of these, please do! If you have any questions, don't hesitate to [join our community server](http://support.switchblade.xyz) and ask as many questions as you want.
 
-   ```sh
-   gatsby new rocket-docs https://github.com/rocketseat/gatsby-starter-rocket-docs
-   ```
+### Ideas and discussion
 
-2. Start developing.
+Do you have a fantastic idea for a feature? We would love to hear about it, even if it’s the silliest idea in the world. In order to suggest a new fature, you can [open an issue](https://github.com/mimitsubot/mimitsu-docs/issues/new), please describe the idea in the best way you can, it will make it easier for us to understand what you're thinking about.
 
-   ```sh
-   cd rocket-docs
-   gatsby develop
-   ```
+### Code
 
-3. Are you ready for launch?
+If you know how to code in JavaScript, then feel free to give [one of the existent ideas](https://github.com/mimitsubot/mimitsu-docs/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22type%3A+idea%22) a try. [Fork this repository](https://github.com/mimitsubot/mimitsu-docs//fork), make some changes then open a pull request.
 
-   Your site is now running at `http://localhost:8000`
+> ⚠ **Please don't open a Pull Request with features that haven't been discussed as issues yet.** We don't want you to waste time writing a feature that might get denied. If you have an idea and want it to be in the bot, check the [Ideas and discussion](#ideas-and-discussion) paragraph above.
 
-## 📄 Docs
+### Reporting bugs
 
-Looking for docs? Check our live demo and documentation [website](https://rocketdocs.netlify.com).
-
----
-
-Made with 💜 by Rocketseat :wave: [check our community!](https://discordapp.com/invite/gCRAFhc)
+Found something that isn't right ? A translation error, or even a text that is missing a word. First of all, we recommend that you read or [Troubleshoot guide](https://github.com/mimitsubot/troubleshoot-guide), if your problem isn't listed there, then please, let us know about this bug! You can report a bug by opening an [issue](https://github.com/mimitsubot/mimitsu-docs/issues/new?template=Bug_report.md). Please give us as much information as you can.
