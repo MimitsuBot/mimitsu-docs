@@ -4,7 +4,7 @@ module.exports = {
     defaultTitle: `Mimitsu | Documentation`,
     siteTitleShort: `Mimitsu`,
     siteDescription: `A focused RPG discord bot which brings a custom farm system and also, a lot of fun.`,
-    siteUrl: `localhost:8000`,
+    siteUrl: `https://localhost:8000`,
     siteAuthor: `@Loliticos`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
@@ -19,7 +19,7 @@ module.exports = {
         configPath: `src/config`,
         docsPath: `src/docs`,
         githubUrl: `https://github.com/mimitsubot/mimitsu-docs`,
-        baseDir: `docs/`
+        baseDir: `/`
       }
     },
     {
@@ -43,7 +43,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `localhost:8000`
+        siteUrl: `https://localhost:8000`
       }
     },
     `gatsby-plugin-offline`
