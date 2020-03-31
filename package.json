@@ -1,0 +1,33 @@
+{
+  "name": "mimitsu-docs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A focused RPG discord bot which brings a custom farm system and also, a lot of fun.",
+  "author": "Loliticos <loliticos@outlook.com> (@Loliticos)",
+  "license": "MIT",
+  "starter-name": "mimitsu-docs",
+  "dependencies": {
+    "@rocketseat/gatsby-theme-docs": "^2.1.1",
+    "gatsby": "^2.20.9",
+    "gatsby-plugin-canonical-urls": "^2.1.19",
+    "gatsby-plugin-google-analytics": "^2.1.34",
+    "gatsby-plugin-manifest": "^2.2.37",
+    "gatsby-plugin-offline": "^3.0.32",
+    "gatsby-plugin-sitemap": "^2.2.26",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "gatsby",
+    "rocketseat",
+    "gatsby-starter"
+  ],
+  "scripts": {
+    "build": "gatsby build",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  }
+}
