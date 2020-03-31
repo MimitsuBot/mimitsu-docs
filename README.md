@@ -32,7 +32,7 @@
 
 ## Docs
 
-You can see a full documentation about Mimitsu in [website](localhost:8000).
+You can see an official documentation about Mimitsu [here](localhost:8000).
 
 ## Contribuiting
 
@@ -50,4 +50,4 @@ If you know how to code in JavaScript, then feel free to give [one of the existe
 
 ### Reporting bugs
 
-Found something that isn't right ? A translation error, or even a text that is missing a word. First of all, we recommend that you read or [Troubleshoot guide](https://github.com/mimitsubot/troubleshoot-guide), if your problem isn't listed there, then please, let us know about this bug! You can report a bug by opening an [issue](https://github.com/mimitsubot/mimitsu-docs/issues/new?template=Bug_report.md). Please give us as much information as you can.
+Found something that isn't right ? A translation error, or even a text that is missing a word. First of all, we recommend that you read or [Troubleshoot guide](https://github.com/mimitsubot/troubleshoot-guide) and try to look for a fix to your issue. If your problem isn't listed there, then please, let us know about this bug! You can report a bug by opening an [issue](https://github.com/mimitsubot/mimitsu-docs/issues/new?template=Bug_report.md). Please give us as much information as you can.

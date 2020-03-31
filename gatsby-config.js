@@ -18,7 +18,7 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/rocketseat/gatsby-themes`,
+        githubUrl: `https://github.com/mimitsubot/mimitsu-docs`,
         baseDir: `docs/`
       }
     },
@@ -28,7 +28,7 @@ module.exports = {
         name: `Mimitsu`,
         short_name: `Mimitsu`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#c696e2`,
         display: `standalone`,
         icon: `static/favicon.png`
       }
