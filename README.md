@@ -3,11 +3,11 @@
 </p>
 
 <h2 align="center">
-  Gatsby Starter: Rocket Docs
+  Mimitsu - Documentation
 </h2>
 
 <p align="center">
-  Out of the box Gatsby Starter for creating documentation websites easily and quickly. With support for MDX, code highlight, Analytics, SEO and more 🔥 Using the theme: <a href="https://github.com/Rocketseat/gatsby-themes/tree/master/%40rocketseat/gatsby-theme-docs">@rocketseat/gatsby-theme-docs</a>
+  A Gatsby Documentation site created for the bot Mimitsu using the plugin <a href="https://github.com/Rocketseat/gatsby-themes/tree/master/%40rocketseat/gatsby-theme-docs">@rocketseat/gatsby-theme-docs</a>
 </p>
 
 <p align="center">
@@ -19,6 +19,14 @@
     <img src="https://img.shields.io/twitter/follow/rocketseat.svg?label=Follow%20@rocketseat" alt="Follow @rocketseat" />
   </a>
 </p>
+
+## Features
+
+- 🎣 Custom fishing system;
+- 🎉 Upgrade your farm;
+- ⚔️ Duel with other farmers in order to get more terrain;
+- 🧤 Steal others farmers animals;
+- and much more 🔥
 
 ## 🚀 Features
 
@@ -34,20 +42,20 @@
 
 1. Create the website.
 
-    ```sh
-    gatsby new rocket-docs https://github.com/rocketseat/gatsby-starter-rocket-docs
-    ```
+   ```sh
+   gatsby new rocket-docs https://github.com/rocketseat/gatsby-starter-rocket-docs
+   ```
 
 2. Start developing.
 
-    ```sh
-    cd rocket-docs
-    gatsby develop
-    ```
+   ```sh
+   cd rocket-docs
+   gatsby develop
+   ```
 
-3. Are you ready for launch? 
+3. Are you ready for launch?
 
-    Your site is now running at `http://localhost:8000`
+   Your site is now running at `http://localhost:8000`
 
 ## 📄 Docs
 
